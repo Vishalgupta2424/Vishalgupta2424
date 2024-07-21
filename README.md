@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">I am a Btech student majoring in computer science with a specialization in AI and Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Embed</title>
+</head>
+<body>
+    <video align="right" width="400" controls>
+        <source src="Record20240623_120046(0)(0).mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
+
+    
 
 - 🌱 I’m currently learning **DSA and React**
 
