@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">I am a Btech student majoring in computer science with a specialization in AI and Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="1000" src="C:\Users\Vishal's PC\Downloads/FormatFactoryScreenRecord20240623_120046-ezgif.com-video-to-gif-converter">
 
 
     
